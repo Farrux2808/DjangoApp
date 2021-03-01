@@ -1,0 +1,1 @@
+#first djano app for learning
